@@ -1,4 +1,4 @@
 Wakeful
-===
+==========================================================
 
-Testing the new Quick Settings Api in Android N.
+Quick settings tile that keeps your screen on.
